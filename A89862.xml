@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nevv made colonel or Irelands jugling pretended reliever. By John Naylier, later quartermaster to Captain Bray.</title>
+            <author>Naylier, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89862</idno>
+            <idno type="STC">Wing N332</idno>
+            <idno type="STC">Thomason E552_10</idno>
+            <idno type="STC">ESTC R17156</idno>
+            <idno type="EEBO-CITATION">99860151</idno>
+            <idno type="PROQUEST">99860151</idno>
+            <idno type="VID">112260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112260)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E552[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nevv made colonel or Irelands jugling pretended reliever. By John Naylier, later quartermaster to Captain Bray.</title>
+                  <author>Naylier, John.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the first yeer of Englands declared freedom, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A narrative of the actions of Mr John Reynolds, in his practice to overthrow Englands best friends" (from caption title, A2r).</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reynolds, John, fl. 1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112260:1" rendition="simple:additions"/>
+            <p>The New made Colonel Or <hi>IRELANDS</hi> Jugling Pretended Reliever.</p>
+            <p>
+               <hi>By</hi> John Naylier, <hi>late Quartermaſter to Captain</hi> Bray.</p>
+            <q>
+               <bibl>
+                  <hi>JER. 9.5.</hi>
+               </bibl>
+               <p>And they will deceive every one his Neighbour, and will not ſpeak the Truth: They have taught their Tongues to ſpeak Lies, and weary themſelves to commit Ini<g ref="char:EOLhyphen"/>quity.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> in the firſt Yeer of Englands Declared Freedom, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112260:2"/>
+            <pb n="3" facs="tcp:112260:2"/>
+            <head>The New made COLONEL, OR, <hi>IRELANDS</hi> Jugling pretended Reliever: IN <hi>A Narrative of the Actions of Mr</hi> John Reynolds, <hi>in his Practice to overthrow</hi> Englands <hi>beſt Friends.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Almighty Creator of the World who hath Created all things, and amongſt the reſt of things, the Heart of mankind; (which particular part of his Creation, he hath reſerved the knowledge of to him<g ref="char:EOLhyphen"/>ſelf only) puts me upon a Manifeſtation of the preſent ſad thoughts of my heart, to all thoſe men of the world, (that this may concern) for there is in my apprehenſion, no other way for man to make his fellow Creatures acquainted with the thoughts of his heart, then verbally by words expreſſing himſelf, or by his Pen to make known to others what he is inwardly fil'd withal;
+<pb n="4" facs="tcp:112260:3"/>therefore finding my ſelf very much preſſed in Spirit, by the unjuſt dealings of thoſe men, which have pretended to the higheſt Principles of Juſtice; I have thought good to eaſe my preſent trouble, by this courſe of writing, although but a poor eaſe to my mind, as in relation to my ſatisfaction.</p>
+            <p>
+               <hi>Therefore as a Narrative of the Cauſe of my preſent trouble of mind, I ſhall here lay down the Cauſe, as in the preſence of God, which ſhall judge both me and the Cauſers thereof.</hi>
+            </p>
+            <p>WHen in the latter end of Forty ſeven, and in the be<g ref="char:EOLhyphen"/>ginning of Forty eight, there was ſuch a general Apoſtaſie from Principles of Juſtice, that we were almoſt over-run by thoſe Enemies of the Nation (the Cavaliers) that (thoſe which had engaged for the Nation, were become the ſcorn of moſt men) then I ſay, we began to fix our eyes upon thoſe men which had contended higheſt for the Nations free<g ref="char:EOLhyphen"/>dome, that we might engage under ſuch men once again, to try whether God would proſper us in venturing to bring down thoſe the peoples profeſt Enemies; when looking curiouſly about us, we found out Captain <hi>Reynolds,</hi> a man much looked upon by the honeſt party, for one that had ſtood and contended (with ſuffering) for our Birth-right; and then finding that he was in imployment to raiſe Men and Horſes for the Kingdoms Service, as Major to a Regiment in <hi>Kent,</hi> under the Command of Sir <hi>Michael Leveſey,</hi> we then I ſay, began cheerfully to engage with him, conceiving that God had thrown a great advantage into our hands: But fur<g ref="char:EOLhyphen"/>ther, when I my ſelf with many others came to hear that there was a Commiſſion to be given to Captain <hi>William Bray,</hi> to Command a Troop in the aforeſaid Regiment; we were moſt of us filled with Comfort, that ſuch men, that were ſo excellently Principled, ſhould now after their ſufferings, come to be truſted with Commands; Whereupon with a great deal of cheerfulneſs we engaged with Captain <hi>Bray,</hi> and al<g ref="char:EOLhyphen"/>though there was never any ſuch preſident before, we at our own proper coſt did raiſe a Regiment of Seven Troops to en<g ref="char:EOLhyphen"/>gage
+<pb n="5" facs="tcp:112260:3"/>againſt the Common enemy, when afterwards we did engage ſeveral times cheerfully, not looking upon the many breaches of promiſe which we found, both from ſome of thoſe that were higheſt in our eſteem upon the account of Ju<g ref="char:EOLhyphen"/>ſtice, and others likewiſe which we leſs truſted too; but wa<g ref="char:EOLhyphen"/>ved. Capitulating when things of publick concernment called for our engagement; although we had large experience be<g ref="char:EOLhyphen"/>fore how many were uſually flattered in time of emergency, and ſlighted with a Supernumary ſlighting (when the Rod was from the back of thoſe Fools that did it) but with cheer<g ref="char:EOLhyphen"/>fulneſs we went on, looking only at the power of God then preſent amongſt us to Conquer; and did, although blame worthy for ſo doing, Acquieſce in thoſe men whom we con<g ref="char:EOLhyphen"/>fided in to be of our and the honeſt parties Principles: But now behold the Mapp of our miſery drawing up, for when the great and our good God had proſpered us with Victory for all our laſt Summers Service, and that we had ſerved them faithfully all the Summer through; now began the ene<g ref="char:EOLhyphen"/>mies of our and the Kingdoms peace to work their wits how they ſhould bring us into ignominy, which they firſt con<g ref="char:EOLhyphen"/>trived by infuſing into the Committee, that ſome of us, eſpe<g ref="char:EOLhyphen"/>cially Captain <hi>Bray's</hi> Troop, were Levellers, and men that were of dangerous Principles to the quiet of the Nation; whereupon they preſently bethink themſelves of ſhutting their hands of us firſt, with another Troop which had a great many men of honeſt Principles in it, (although led by an acquieſſing Captain) now we that had no ſiniſter intents in us, but were meerly upon the account of Juſtice to the Na<g ref="char:EOLhyphen"/>tion, did quietly march away out of <hi>Kent,</hi> to be led like ſheep to the ſlaughter, or that which is worſe, to be the tools or inſtruments to make one ambitious man great, that for<g ref="char:EOLhyphen"/>merly had pretended nothing as his Intereſt but <hi>Salus populi ſuprema Lex,</hi> and all the Principles of Juſtice that can be thought upon; I ſay, then at our diſmiſſion from the County of <hi>Kents</hi> Service, it was pretended to us by our Major <hi>Rey<g ref="char:EOLhyphen"/>nolds,</hi> that we ſhould march into <hi>Hartfordſhire</hi> there to quar<g ref="char:EOLhyphen"/>ter until we ſaw what became of the Treaty then with the
+<pb n="6" facs="tcp:112260:4"/>King in the Iſle of Wight, which we thought would be over within a matter of three weeks; when that being ended, we ſhould either not need to ſtand at all, in reſpect of the preſent and ſpeedy execution of juſtice; or if there were need, we ſhould ſtand upon the ſame account with the reſt of the Army under the Lord <hi>Fairfax:</hi> But having waited the aforeſaid time and longer, we then received an Order from the Major, to march toward Pontefract, and to take Peter<g ref="char:EOLhyphen"/>borough in the way, there to make an Hault until the Major ſhould come up to us; which Command we obeyed, moving to and fro, becauſe we would not be more burthenſome to the Countrey then needs muſt; But alaſs, all this while we were miſtaken, for he (who we thought would have proved ſo faithful to us, and in us to the Common-wealth) was a jugling, by entertaining a motion from the Committee of Darby<g ref="char:EOLhyphen"/>houſe to tranſport us for Ireland, as if we had ſtood upon a Mercenary account, to have engaged upon any Deſign that might make him a Colonel, or yeild us money; (and to the end that we ſhould juggle as well as he, he ſent us down an Order that we ſhould propound Iriſh terms to the Troops, and with ſuch as would entertain the ſaid terms, to march to Southam in Warwickſhire in order to a further march to<g ref="char:EOLhyphen"/>ward Ireland) but when we ſaw his Order, we did ſo far a<g ref="char:EOLhyphen"/>bominate his juggling deſigne, that we never ſo much as propounded it, although it had been eaſie to have perſwaded ſome of his Creatures with us in high Command to have done it.</p>
+            <p>But when the upſhot came, that the Souldiery could no longer acquieſce, but that they would by the Conſent of Captain <hi>Bray,</hi> who alone ſtood with them (without any Captain in the Regiment) I ſay, when they would no lon<g ref="char:EOLhyphen"/>ger reſt to burthen the Country with Free quarter, without knowing what ground it was upon; they choſe them men as Agents to meet, and to conſider about it, when in all the ſeveral meetings they found ſtill an oppoſition in his Creature Captains. to any other thing then an acquieſſing in what the ſaid Major <hi>Reynolds</hi> could do; by which means we moſt baſely
+<pb n="7" facs="tcp:112260:4"/>deceived the expectation of all our honeſt friends, who ex<g ref="char:EOLhyphen"/>pected that we would not be the laſt that ſhould declare for the peoples Rights, knowing our former approved forward<g ref="char:EOLhyphen"/>neſs; but by the means of ſuch men of the higheſt places a<g ref="char:EOLhyphen"/>mongſt us, we were forced to a ſilence in ſtanding for, or de<g ref="char:EOLhyphen"/>claring for the Peoples Rights, untill we were anticipated by the Armies general Remonſtrance, and ſo juſtly judged by our honeſt friends for men of low and cowardly ſpirits, and ſo loſt our ſelves in the account of honeſt men, that I fear many of them give us up for final Apoſtates, although they have no reaſon, ſave our being over-ruled, by the flattering villany of <hi>Reynolds,</hi> to judge ſo of us.</p>
+            <p>But at the laſt it came to this, That through the mighty importunity of thoſe that were Friends to our Old Princi<g ref="char:EOLhyphen"/>ples, <hi>viz. Juſtice;</hi> we at laſt got an Addreſs concluded upon, to be delivered to the Lord <hi>Fairfax:</hi> And the three Troups then under <hi>Reynolds,</hi> upon the Account of Juſtice, did chuſe them out men as Agents, to deliver the aforeſaid Addreſs: For mark, then we had no Mercenary Troups amongſt us, but we were entangled with Mercenary Apoſtate Officers of <hi>Reynolds</hi> his own Creatures, that made all our endeavors (as to publike concernment) void and fruſtrate for a great while together: But at laſt we had gotten an Addreſs conſented to, that might render us to ſtand upon the pure account of Ju<g ref="char:EOLhyphen"/>ſtice: which time I my ſelf with others were appointed to come to <hi>London</hi> with the aforeſaid Addreſs; when coming toward <hi>Windſor,</hi> we found a great part of the Army by Or<g ref="char:EOLhyphen"/>der that day to Rendezvous upon <hi>Hounſloe</hi>-Heath in order to their march into <hi>London;</hi> but that night the Armies Head<g ref="char:EOLhyphen"/>quarters being kept at <hi>Hamerſmith,</hi> we ſtaid there to ſpeak with Major <hi>Reynolds,</hi> to hear what ſatisfaction he would give us for our being led up and down the Land, upon what ac<g ref="char:EOLhyphen"/>count we knew not as in relation to his intentions, becauſe as I have ſaid before, we ſtood meerly upon the account of Ju<g ref="char:EOLhyphen"/>ſtice to this Nation, and he was bargaining to ſell us to the Committee of Darby-houſe for Four pounds a man and Horſe, and compleat Arms, for the Service of Ireland; (for
+<pb n="8" facs="tcp:112260:5"/>ſo his own Order ſent down to us to propound to the men ſpecifies in words:) But he made Anſwer again, <hi>That he thought that we had more wit then ſo to think that he had any intent for Ireland, but meerly was uſing his wits to keep honeſt men together for the good of the Nations Intereſt:</hi> But then I asked him, Why he cold Livetenant <hi>Spilman,</hi> a honeſt man, That his intentions was really for Ireland according to his pretences? He made me Anſwer again, <hi>That he had given private intimations to all the Officers of the Troops, That he never intended any ſuch thing as a Commanding of men into Ireland; but that he, what he was then doing, was meerly to hold Correſpondency with Darby-houſe Committee for a time, until he ſhould have opportunity to provide for honeſt men:</hi> The belief of which, he the eaſier faſtened upon us, becauſe we reflected upon his former Contendings for the Nations juſt Rights, but the ſequel will ſhew both the Levity of our over Credulity, and the wickedneſs of his Apoſtaſie; for the very next morning, <hi>viz.</hi> the ſame morning that the Army marched into the City, he came to a houſe in <hi>Hamerſmith</hi> where Capt. <hi>Bray,</hi> my ſelf, and others quartered that night; I ſay he came to us by four of the Clock in the morning, and told us, <hi>That now he had got Orders for our Receiving into the Army, and that he had then an Order for one of us to March away to the Troops, to Com<g ref="char:EOLhyphen"/>mand them to March out of Ox<g ref="char:EOLhyphen"/>ford-ſhire where they then were, to march into Hampſhire in Order to the ſafe guarding of the King then being in Hurſt Caſtle;</hi> which Or<g ref="char:EOLhyphen"/>der, together with <note n="*" place="margin">His violence againſt thoſe he had jugled with, viz. The Committee of Darby-houſe, that he ſaid at <hi>Hamerſmith,</hi> That he hoped to have his Bond of Six thouſand pounds from them before night, which was that morning the Ar<g ref="char:EOLhyphen"/>my marched into London, or elſe he hoped to cut the throates of ſome of that Committee, &amp;c.</note> the imploy<g ref="char:EOLhyphen"/>ment deſigned to us, begot in us a reſpective belief of his in<g ref="char:EOLhyphen"/>tegrity to his former principles, and an acquieſcency in his future Care for us. But when we had ſtaid in <hi>Hampſhire,</hi> be<g ref="char:EOLhyphen"/>ing ſometime upon the particular Gaurd of the King, I ſay,
+<pb n="9" facs="tcp:112260:5"/>when we had ſtaid a great while there, both until, and after the King was fetcht away, without any Care taken for pay for us, that ſo we might, as the reſt of the Army did, pay our quarters, and not be ſo burthenſome to the Country; we at laſt were written to by <hi>Reynolds,</hi> That he had Eſtabliſhed Six Troops into the Army, which he pretended ſtill was his greateſt Care to provide for honeſt men, ſo as to keep them together.</p>
+            <p>But yet his great promiſes, compared with his ſlight per<g ref="char:EOLhyphen"/>formances, wrought a continual ſuſpition again in the Troops, that he was rather a Juggler then a real Friend to the Nation.</p>
+            <p>Yet notwithſtanding, upon his further Order we marched into Worceſter-ſhire, where by the way, we met with two other Troops, that had been upon his Juggle of the Four pounds a man for Ireland; and there, what with the mens hatred and deteſtation of his double dealing, and the op<g ref="char:EOLhyphen"/>preſſion of the Country, together with their own poverty, they had reduced one of the aforeſaid Troops to a very ſmall Company of men, and their Troop made up again of ſuch as they could get, of any principles whatſoever; and theſe men we were fain to joyn withal, and they to have the Command in Cheif over us in Worceſter-ſhire, which made us not to ſuſpect without cauſe, that we ſhould meet with ſuch dealings as indeed now we have found.</p>
+            <p>For after we had lain upon the Country without proviſi<g ref="char:EOLhyphen"/>on of pay made for us a great while, to the peoples ſad op<g ref="char:EOLhyphen"/>preſſion, we began again to ſtir, to Petition the Houſe of Commons, being the more induced thereunto by Captain <hi>Bray's</hi> being ſnatched from us without any thing laid to his Charge; which actions we had many reaſons to beleeve was by a ſtrong influence of <hi>Reynolds</hi> upon thoſe that put another in his Command.</p>
+            <p>But when it was endeavoured all that poſſible could be, to draw the whole Regiment to a Conjunction in the afore<g ref="char:EOLhyphen"/>ſaid Petition, we found ſo many acquieſſing Officers and Souldiers, to ſtand againſt it, that Captain <hi>Bray's</hi> own
+<pb n="10" facs="tcp:112260:6"/>Troop were fain to do it ſingly of themſelves; and they were ſo ſenſible of their being abuſed by <hi>Reynolds</hi> his jugling, that it produced this ſucceeding Letter to be ſent to him, in the name, and with the Subſcriptions of Captain <hi>Bray's</hi> Troop.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>WE little thought that the Product of our Patience would have begot ſo deſperate an intrenchment upon Ours and the Peoples juſt Rights, as that now our great and unwearied pains, hardſhips, loſſes, and coſts, ſhould bring forth nothing but the onely things that we have endeavoured and fought againſt, <hi>viz.</hi> Iniquity, Injuſtice, and all the concomi<g ref="char:EOLhyphen"/>tants of wickedneſs, which we ſee wrapt up in your dealings with us. Have we been more unfaithful than the other Troops to the Nation? Have we ventured our Lives under your Com<g ref="char:EOLhyphen"/>mand leſs then they? Have our Principles ſwarved from the Foundation of a juſt Being more then they? Remember that there is a juſt God that ſees your heart and ours, in the remem<g ref="char:EOLhyphen"/>brance of which, it muſt needs be horror enough to your Con<g ref="char:EOLhyphen"/>ſcience without naming particulars; but yet we muſt name ſome for the manifeſtation of Truth: Have not you coſt us (we mean this Troop) neer upon a Thouſand pounds amongſt us in Charges, to wait for the good which we expected from your former profeſſed Principles? but now all the uſe that we ſee you have made of all our Charge and Patience, and what ever elſe, is now at laſt, but to make your ſelf a Colonel out of the ſad ruins of the Nations and our Rights and Eſtates: Nay, would you but yet reſt paſſive, it might give us ſome eaſe of mind; but you are ſo active, that we have juſt cauſe to ſuſpect that you have had an influence upon a Captain in the Regi<g ref="char:EOLhyphen"/>ment, to propound to us, That now at laſt we ſhould be thrown from the Colours, all except Forty or Fifty, without righteous and juſt ſatisfaction, after our <hi>25</hi> weeks patience, without one penny of Pay, and then the Troop to be made up again of ſuch as you ſhall bring or ſend down, to reap the fruit of all our La<g ref="char:EOLhyphen"/>bors. But we give you to underſtand in time, That we carry
+<pb n="11" facs="tcp:112260:6"/>not ſuch ignoble Spirits about us, whatever you may judge of our ſilence hitherto, as to admit any other Captain to Com<g ref="char:EOLhyphen"/>mand us, be he what he can be, until you have either proved Captain <hi>Bray</hi> Treacherous in his Truſt, or Deficient in the Charge he hath upon him; for we wear our Swords to vindi<g ref="char:EOLhyphen"/>cate the Nation from injuſtice, and ſhall we be firſt begun withal, to have ſuch unparralleld miſchief thrown upon us? No, we are reſolved rather to expire in our Being, before we will proſtitute our Conſciences to any Tyrant or <g ref="char:V">Ʋ</g>ſurpers will; we will fly to the Law of Nature and Reaſon firſt, and there<g ref="char:EOLhyphen"/>fore we thought good in time to let you know our Reſolutions, that you might not flatter your ſelf in things that you can ne<g ref="char:EOLhyphen"/>ver accompliſh, no nor the greateſt power on Earth; for what<g ref="char:EOLhyphen"/>ever you may think of us, we have yet our veins full of Engliſh bloud, although we have ſo long ſtood ſtill to the admiration of all honeſt men.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Will. Haſhup, <hi>Lievt.</hi>
+                           </item>
+                           <item>Chr. Cheſman, <hi>Corn.</hi>
+                           </item>
+                           <item>Ioh. Naylier, <hi>Quart.</hi>
+                           </item>
+                           <item>Auſt. Whitny, <hi>Corp.</hi>
+                           </item>
+                           <item>Rob. Harbiſon, <hi>Corp.</hi>
+                           </item>
+                           <item>Ioh. Baſtin,</item>
+                           <item>Ioſeph Pepit.,</item>
+                           <item>Iohn Marſhall,</item>
+                           <item>Edw. Baſtin,</item>
+                           <item>Will. Scott.</item>
+                           <item>Sam. Ganer,</item>
+                           <item>Sam. Howlt.</item>
+                           <item>Fran. Lee,</item>
+                           <item>Dan. King,</item>
+                           <item>Tho. Satchel,</item>
+                           <item>Ioh. Wright,</item>
+                           <item>Rob. Painter.</item>
+                           <item>Fra. Haſlelup,</item>
+                           <item>VVill. Bastin,</item>
+                           <item>Ioh. Lathe,</item>
+                           <item>Tho. Grimes.</item>
+                           <item>Ioh. Hardey,</item>
+                           <item>Gilb. Games,</item>
+                           <item>Rich. Hill,</item>
+                           <item>R. Sanders,</item>
+                           <item>R. Harriſon,</item>
+                           <item>T. Richards,</item>
+                           <item>V. Stephenſon,</item>
+                           <item>Ed. Avery,</item>
+                           <item>Hen. Bugbey,</item>
+                           <item>T. Robbinſon,</item>
+                           <item>Rich. Robbins,</item>
+                           <item>George Betten,</item>
+                           <item>G. Spooner,</item>
+                           <item>T. Anderton,</item>
+                           <item>Ioh. Franſon,</item>
+                           <item>Ioh. Allin,</item>
+                           <item>Rob. Abbitt,</item>
+                           <item>Will. Blithe,</item>
+                           <item>Chry. Booth,</item>
+                           <item>Iam. Trigg,</item>
+                           <item>Will. Smith,</item>
+                           <item>Hum. Budds,</item>
+                           <item>R. Patridge,</item>
+                           <item>S. Mowbray,</item>
+                           <item>Will. Howel,</item>
+                           <item>Ioh. Parr,</item>
+                           <item>Ioh. Laſey,</item>
+                           <item>I, Ruſtal,</item>
+                           <item>Tho. Linnel,</item>
+                           <item>Tho. Flafer,</item>
+                           <item>I. Waſhburne,</item>
+                           <item>I. Cornelius,</item>
+                           <item>Dav. Chentin,</item>
+                           <item>Will. Sidwel,</item>
+                           <item>Tho. Roe,</item>
+                           <item>R. Ellegood,</item>
+                           <item>N Weſtwood,</item>
+                           <item>Han. Dawſon,</item>
+                           <item>Ier. Stephenſon,</item>
+                           <item>H. Philpot,</item>
+                           <item>Ed. Taylor,</item>
+                           <item>Will. Haddock</item>
+                           <item>Rob. Bence,</item>
+                           <item>Will. Gilbert.</item>
+                           <item>I. Ellington,</item>
+                           <item>Att. Boothe,</item>
+                           <item>Will. Morden,</item>
+                           <item>Ioh. Mutlow,</item>
+                           <item>Rob. Bulgey,</item>
+                           <item>Ioh. Price,</item>
+                           <item>Ralph Phillips,</item>
+                           <item>Ioh. Elvins,</item>
+                           <item>Ioh. Burges.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="12" facs="tcp:112260:7"/>
+THis Letter being Subſcribed by Captain <hi>Brays</hi> Troop, whoſe names are Subſcribed; but when I came to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> with others that the Troop intruſted, we were perſwaded by our Friends not to Print this Letter to the publick veiw of the world, becauſe they did ſuppoſe <hi>Reynolds</hi> was not yet an abſolute Apoſtate: But at my going down again to my Co<g ref="char:EOLhyphen"/>lours, I found enough of him to conclude him an A<g ref="char:EOLhyphen"/>poſtate.</p>
+            <p>For, in the time that we were at <hi>London,</hi> there came down a Lievtenant, pretending himſelf to be in Commiſſion under one <hi>Ayres,</hi> who told Captain <hi>Brays</hi> men, That the ſaid <hi>Ayres</hi> was to have that Troop: which men being ſtartied, and wondring that Captain <hi>Bray</hi> ſhould be taken from them without firſt ſhewing them a Reaſon; and beſides that, they were Commanded to deliver up their Colours to a man they never ſaw, and he not there then neither: The ſaid Troop were Reſolved to maintain their Colours like Souldiers, and not to be affronted as they were Commoners, but to deny the Surrender of their Colours until they were ſatisfied in the aforeſaid premiſes: Whereupon they marched preſently a<g ref="char:EOLhyphen"/>way to another Diviſion of the Regiment then being in <hi>Shropſhire,</hi> under the Command of one Captain <hi>Chaplain,</hi> whom they ſolicited to ſtand for them in the obtaining of Juſtice; but the beſt entertainment they found from the ſaid <hi>Chaplain</hi> was, That he denied to give them any Order for Quarter; and more then that, he forwarned the Country to give them any Quarter; ſo that inſtead of protecting them until Juſtice were done upon them, he inforced them to Re<g ref="char:EOLhyphen"/>ſolve to lye in a Field neer <hi>Welch-Felton</hi> in <hi>Shropſhire,</hi> until the people of the Town came courteouſly out to them, and invited them into their houſes, and gave them Quarters in their own Charity; telling them, That they wondered to ſee ſuch Souldiers as they were, that were ſo patient in their abuſes.</p>
+            <p>But now <hi>Reynolds</hi> the new-made Colonel, that he might get them again into his clutches, made fair weather to cer<g ref="char:EOLhyphen"/>tain
+<pb n="13" facs="tcp:112260:7"/>of the Troop that went to him, and ſent an Order to them that they ſhould come back to a Regiment Rendezvous which he had appointed to be at <hi>Keynton</hi> in <hi>Warwick-ſhire,</hi> defiring them that they would be ſure to be all at the ſaid Meeting, that ſo he might ſee <hi>all his honeſt Pree Commoners,</hi> (for that was his own expreſſion) by which we thought he would have proved loving to us according to his former pro<g ref="char:EOLhyphen"/>feſſed Principles, which we were the rather induced to be<g ref="char:EOLhyphen"/>leeve, becauſe he gave us an Order under his own hand, for quartering neer the Regiment, promiſing us, That he would protect us from any harm that any body ſhould offer to us: Moreover, telling us, That if any Order ſhould come to him, (or to any other that he could heat of) he would be ſure to give us notice of it; (which were apparent ſigns to us, that his hea<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s upright towards us,) but now mark what fell from him at the ſaid Rendezvous, he there gave us leave to propound our Greivances, which for order ſake we did by the mouth of tvvo Souldiers choſen out by general Conſent, vvhere vve deſired, That according to the Generals Order, the Troop as it ſtood, intire under Captain <hi>Bray,</hi> might be delivered into the hands of the nevv Captain <hi>Ayres.</hi> vvith our ovvn Colours, vvhich he granted to us; But vvhile vve vvere making our Muſter-Rovvls to that purpoſe, he and the nevv Captain had ſo jugled, that he fell from that Order of his ovvn again, and Muſtered a nevv Troop of men that had been many of them in Pay in other places, vvhile vve ſer<g ref="char:EOLhyphen"/>ved ſix Months vvithout one penny of Pay; and ſo theſe nevv men come novv to reap the fruits of our Labours. And I am informed, That he hath ſent up vvord, That his Regiment hath unanimouſly engaged for <hi>Ireland:</hi> You may judge, for he propounded ſuch Terms to his own Troop, deſiring them to ſignifie their forwardneſs by holding up their Hats or their Hands; but I could not ſee one man hold up either Hatt or Hand but himſelf and ſome Officers that follovved him about the Field; at length he Commanded his Colours to march out, and thoſe that excepted of <hi>Iriſh</hi> terms to follovv the Colours, and then indeed there vvas one man of his ovvn
+<pb n="14" facs="tcp:112260:8"/>Troop that did dravv out after his Colours upon that ac<g ref="char:EOLhyphen"/>count. Novv you may ſee vvhat it is for a Troop or Regi<g ref="char:EOLhyphen"/>ment to be unanimous in his Sence; and for the Majors Troop, they vvere ſo unanimous, that he vvas fain to dravv out a Party of Captain <hi>Ayres</hi> his nevv men to Guard their Colours; for he hath ſo diſcontented the Regiment by ta<g ref="char:EOLhyphen"/>king avvay moſt of the cheifeſt Principled men that vvere their Officers, that I can ſee but fevv of the oldeſt Souldiers of the Regiment that do not conclude him an Apoſtatized Knave: And for my own part, being with him at <hi>Banbury,</hi> the laſt time I ſaw him, Charging him with a thing that he had promiſed but the day before, and he told me himſelf, <hi>That his Promiſes were ſealed with Butter;</hi> which indeed I found by woful experience.</p>
+            <p>Now Reader do but judge what hope <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have of good from ſuch men in Cheif Command, that make no more of their word, then to profeſs openly, That they are not bound by their word. They talke much of Jeſuites, and ſtrange nick-names elſe that they have for men of honeſt Principles, but judge whether this do not reſemble (<hi>Garnett</hi> by name) a profeſt Jeſuit, who being told. That King <hi>James</hi> would find out Papiſts by His Oath of <hi>Allegiance</hi> being impoſed upon them: <hi>Garnett</hi> made Anſwer again, <hi>That King James ſhould know, That the Oath of Allegiance was ſubject to a Paper Diſpenſation.</hi> Thus have I Deſciphered to thee, the Apoſtaſie of this man, meerly to that end, That other ho<g ref="char:EOLhyphen"/>neſt men may not for the future, be liable to be deceived by him, as I, and many other honeſt men have been.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112260:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
